@@ -32,11 +32,3 @@ My proposition is to realign struct at the end of `sctp_getsockopt_assoc_stats(.
 # Testing
 This solution was tested on:
 - qemu-system-x86_64 (64bit and 32bit ELF)
-<!--
-- qemu-system-i386
-- qemu-system-arm
-- qemu-system-aarch64
-- qemu-system-mips
-- qemu-system-mips64
-- native ubuntu x86_64 (64bit and 32bit ELF)
--->
